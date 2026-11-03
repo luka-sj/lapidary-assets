@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024"><defs>
+<linearGradient id="p" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#69a6eb"/><stop offset="1" stop-color="#416792"/></linearGradient>
+<radialGradient id="glow" cx=".35" cy=".3" r=".75"><stop offset="0" stop-color="#fff" stop-opacity=".18"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+<filter id="sh" filterUnits="userSpaceOnUse" x="0" y="0" width="1024" height="1024"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000" flood-opacity=".35"/></filter></defs>
+<rect width="1024" height="1024" fill="url(#p)"/><rect width="1024" height="1024" fill="url(#glow)"/>
+<g filter="url(#sh)"><g transform="translate(135 123) scale(24.3)" fill="#fff" stroke="#fff" stroke-linejoin="round">
+<path d="M9 2 22 4l7 9-3 10-10 7L6 25 2 15Z" fill-opacity=".2" stroke-width="1.6"/>
+<path d="M9 2 13 11 2 15 6 25l5-2 5 7V9Z" fill-opacity=".42" stroke="none"/>
+<path d="M16 9 22 4l7 9-8 8-5 9Z" fill-opacity=".22" stroke="none"/>
+<path d="M13 11 16 9l5 4v8l-5 3-5-1Z" fill-opacity=".92" stroke-width="1.1"/>
+<path d="M2 15l11-4-2 12-5 2M22 4l-1 9h8M21 21l5 2M16 24v6" fill="none" stroke-width="1"/></g></g>
+<g transform="translate(528.66 521.52) scale(0.41015625 -0.41015625) translate(-320 -192)"><path d="M32 224h32v-192h-32h-0.0380859c-17.6436 0 -31.9619 14.3184 -31.9619 31.9619v0.0380859v128v0.0380859c0 17.6436 14.3184 31.9619 31.9619 31.9619h0.0380859zM544 272v-272c-0.0351562 -35.293 -28.707 -63.9648 -64 -64h-320
+c-35.293 0.0351562 -63.9648 28.707 -64 64v272v0.0263672c0 44.1455 35.8281 79.9736 79.9736 79.9736h0.0263672h112v64c0 17.6641 14.3359 32 32 32s32 -14.3359 32 -32v-64h112h0.0263672c44.1455 0 79.9736 -35.8281 79.9736 -79.9736v-0.0263672zM264 192
+c0 22.0801 -17.9199 40 -40 40s-40 -17.9199 -40 -40s17.9199 -40 40 -40h0.00292969c22.0781 0 39.9971 17.9189 39.9971 39.9971v0.00292969zM256 64h-64v-32h64v32zM352 64h-64v-32h64v32zM456 192c0 22.0801 -17.9199 40 -40 40s-40 -17.9199 -40 -40
+s17.9199 -40 40 -40h0.00292969c22.0781 0 39.9971 17.9189 39.9971 39.9971v0.00292969zM448 64h-64v-32h64v32zM640 192v-128v-0.0380859c0 -17.6436 -14.3184 -31.9619 -31.9619 -31.9619h-0.0380859h-32v192h32h0.0380859c17.6436 0 31.9619 -14.3184 31.9619 -31.9619
+v-0.0380859z" fill="#416792"/></g></svg>
