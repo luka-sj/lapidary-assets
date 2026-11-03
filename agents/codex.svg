@@ -3,12 +3,7 @@
 <radialGradient id="glow" cx=".35" cy=".3" r=".75"><stop offset="0" stop-color="#fff" stop-opacity=".18"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
 <filter id="sh" filterUnits="userSpaceOnUse" x="0" y="0" width="1024" height="1024"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000" flood-opacity=".35"/></filter></defs>
 <rect width="1024" height="1024" fill="url(#p)"/><rect width="1024" height="1024" fill="url(#glow)"/>
-<g filter="url(#sh)"><g transform="translate(135 123) scale(24.3)" fill="#fff" stroke="#fff" stroke-linejoin="round">
-<path d="M9 2 22 4l7 9-3 10-10 7L6 25 2 15Z" fill-opacity=".2" stroke-width="1.6"/>
-<path d="M9 2 13 11 2 15 6 25l5-2 5 7V9Z" fill-opacity=".42" stroke="none"/>
-<path d="M16 9 22 4l7 9-8 8-5 9Z" fill-opacity=".22" stroke="none"/>
-<path d="M13 11 16 9l5 4v8l-5 3-5-1Z" fill-opacity=".92" stroke-width="1.1"/>
-<path d="M2 15l11-4-2 12-5 2M22 4l-1 9h8M21 21l5 2M16 24v6" fill="none" stroke-width="1"/></g></g>
+<g filter="url(#sh)"><g transform="translate(135 123) scale(24.3)" fill="#fff" stroke="#fff" stroke-linejoin="round"><path d="M9 2 22 4l7 9-3 10-10 7L6 25 2 15Z" fill-opacity=".2" stroke-width="1.6"/><path d="M9 2 13 11 2 15 6 25l5-2 5 7V9Z" fill-opacity=".42" stroke="none"/><path d="M16 9 22 4l7 9-8 8-5 9Z" fill-opacity=".22" stroke="none"/><path d="M13 11 16 9l5 4v8l-5 3-5-1Z" fill-opacity=".92" stroke-width="1.1"/><path d="M2 15l11-4-2 12-5 2M22 4l-1 9h8M21 21l5 2M16 24v6" fill="none" stroke-width="1"/></g></g>
 <g transform="translate(528.66 521.52) scale(0.41015625 -0.41015625) translate(-240 -192)"><path d="M106.75 232.94l108.64 -190.101l-208.26 22.0703c-5.83008 0.639648 -9.00977 7.13965 -5.92969 12.1396zM7.41016 132.57c-2.12012 -3.44043 -7.41016 -1.94043 -7.41016 2.08984v162.81c0 3.11035 3.38965 5.03027 6.05957 3.43066l76.6406 -45.9805zM18.25 24.4004
 c-4.03027 1.97949 -2.25 8.06934 2.2002 7.56934l203.55 -22.2998v-65.6699c0 -5.83008 -6.0498 -9.70996 -11.3496 -7.25977zM99.4697 282.18l-81.5293 48.6904c-2.52051 1.51953 -2.60059 5.16016 -0.130859 6.78027l150.811 98.6094
 c7.18945 4.11035 15.1201 -4.08008 10.7803 -11.1396zM240 272h-109.21l95.5801 168.38c3.12988 5.08008 8.37988 7.62012 13.6299 7.62012s10.5 -2.54004 13.6299 -7.62012l95.5801 -168.38h-109.21zM473.94 300.9c2.66992 1.59961 6.05957 -0.320312 6.05957 -3.43066

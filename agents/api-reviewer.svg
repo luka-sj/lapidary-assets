@@ -3,12 +3,7 @@
 <radialGradient id="glow" cx=".35" cy=".3" r=".75"><stop offset="0" stop-color="#fff" stop-opacity=".18"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
 <filter id="sh" filterUnits="userSpaceOnUse" x="0" y="0" width="1024" height="1024"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000" flood-opacity=".35"/></filter></defs>
 <rect width="1024" height="1024" fill="url(#p)"/><rect width="1024" height="1024" fill="url(#glow)"/>
-<g filter="url(#sh)"><g transform="translate(135 123) scale(24.3)" fill="#fff" stroke="#fff" stroke-linejoin="round">
-<path d="M9 2 22 4l7 9-3 10-10 7L6 25 2 15Z" fill-opacity=".2" stroke-width="1.6"/>
-<path d="M9 2 13 11 2 15 6 25l5-2 5 7V9Z" fill-opacity=".42" stroke="none"/>
-<path d="M16 9 22 4l7 9-8 8-5 9Z" fill-opacity=".22" stroke="none"/>
-<path d="M13 11 16 9l5 4v8l-5 3-5-1Z" fill-opacity=".92" stroke-width="1.1"/>
-<path d="M2 15l11-4-2 12-5 2M22 4l-1 9h8M21 21l5 2M16 24v6" fill="none" stroke-width="1"/></g></g>
+<g filter="url(#sh)"><g transform="translate(135 123) scale(24.3)" fill="#fff" stroke="#fff" stroke-linejoin="round"><path d="M9 2 22 4l7 9-3 10-10 7L6 25 2 15Z" fill-opacity=".2" stroke-width="1.6"/><path d="M9 2 13 11 2 15 6 25l5-2 5 7V9Z" fill-opacity=".42" stroke="none"/><path d="M16 9 22 4l7 9-8 8-5 9Z" fill-opacity=".22" stroke="none"/><path d="M13 11 16 9l5 4v8l-5 3-5-1Z" fill-opacity=".92" stroke-width="1.1"/><path d="M2 15l11-4-2 12-5 2M22 4l-1 9h8M21 21l5 2M16 24v6" fill="none" stroke-width="1"/></g></g>
 <g transform="translate(528.66 521.52) scale(0.41015625 -0.41015625) translate(-288 -192)"><path d="M574.1 167.63c1.26074 -5.07031 1.90039 -10.2695 1.90039 -15.5v-70.25c0 -62.8896 -51.5801 -113.88 -115.2 -113.88h-37.1201c-60.2793 0 -110.37 45.9404 -114.87 105.37l-2.92969 38.6299h-35.75l-2.92969 -38.6299
 c-4.50977 -59.4297 -54.6006 -105.37 -114.88 -105.37h-37.1201c-63.6201 0 -115.2 50.9902 -115.2 113.89v70.25c0.000976562 4.33984 0.852539 11.2793 1.90039 15.4902l45.3398 181.73c5.91016 23.6895 21.5898 44.0293 43 55.7998
 c21.4395 11.7402 46.9697 14.1094 70.1895 6.33008l15.25 -5.08008c8.39062 -2.79004 12.9199 -11.8604 10.1201 -20.2402l-5.05957 -15.1797c-2.79004 -8.37988 -11.8506 -12.9102 -20.2305 -10.1201l-13.1699 4.38965

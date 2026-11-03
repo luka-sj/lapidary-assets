@@ -3,12 +3,7 @@
 <radialGradient id="glow" cx=".35" cy=".3" r=".75"><stop offset="0" stop-color="#fff" stop-opacity=".18"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
 <filter id="sh" filterUnits="userSpaceOnUse" x="0" y="0" width="1024" height="1024"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000" flood-opacity=".35"/></filter></defs>
 <rect width="1024" height="1024" fill="url(#p)"/><rect width="1024" height="1024" fill="url(#glow)"/>
-<g filter="url(#sh)"><g transform="translate(135 123) scale(24.3)" fill="#fff" stroke="#fff" stroke-linejoin="round">
-<path d="M9 2 22 4l7 9-3 10-10 7L6 25 2 15Z" fill-opacity=".2" stroke-width="1.6"/>
-<path d="M9 2 13 11 2 15 6 25l5-2 5 7V9Z" fill-opacity=".42" stroke="none"/>
-<path d="M16 9 22 4l7 9-8 8-5 9Z" fill-opacity=".22" stroke="none"/>
-<path d="M13 11 16 9l5 4v8l-5 3-5-1Z" fill-opacity=".92" stroke-width="1.1"/>
-<path d="M2 15l11-4-2 12-5 2M22 4l-1 9h8M21 21l5 2M16 24v6" fill="none" stroke-width="1"/></g></g>
+<g filter="url(#sh)"><g transform="translate(135 123) scale(24.3)" fill="#fff" stroke="#fff" stroke-linejoin="round"><path d="M9 2 22 4l7 9-3 10-10 7L6 25 2 15Z" fill-opacity=".2" stroke-width="1.6"/><path d="M9 2 13 11 2 15 6 25l5-2 5 7V9Z" fill-opacity=".42" stroke="none"/><path d="M16 9 22 4l7 9-8 8-5 9Z" fill-opacity=".22" stroke="none"/><path d="M13 11 16 9l5 4v8l-5 3-5-1Z" fill-opacity=".92" stroke-width="1.1"/><path d="M2 15l11-4-2 12-5 2M22 4l-1 9h8M21 21l5 2M16 24v6" fill="none" stroke-width="1"/></g></g>
 <g transform="translate(528.66 521.52) scale(0.41015625 -0.41015625) translate(-224 -192)"><path d="M64 224c-8.7998 0 -16 7.2002 -16 16v96c0 8.7998 7.2002 16 16 16h13.5c24.7002 56.5 80.9004 96 146.5 96s121.8 -39.5 146.5 -96h13.5c8.7998 0 16 -7.2002 16 -16v-96c0 -8.7998 -7.2002 -16 -16 -16h-13.5c-24.7002 -56.5 -80.9004 -96 -146.5 -96
 s-121.8 39.5 -146.5 96h-13.5zM104 312v-24c0 -53 43 -96 96 -96h48c53 0 96 43 96 96v24c0 22.0996 -21.5 40 -48 40h-144c-26.5 0 -48 -17.9004 -48 -40zM176 240l-12 36l-36 12l36 12l12 36l12 -36l36 -12l-36 -12zM327.6 126.6c67.5 -7.09961 120.4 -63.5996 120.4 -133
 v-9.59961c0 -26.5 -21.5 -48 -48 -48h-80v64c0 17.7002 -14.2998 32 -32 32h-128c-17.7002 0 -32 -14.2998 -32 -32v-64h-80c-26.5 0 -48 21.5 -48 48v9.59961c0 69.4004 52.9004 125.9 120.4 133c29.8994 -19.2998 65.3994 -30.5996 103.6 -30.5996

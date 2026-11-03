@@ -3,12 +3,7 @@
 <radialGradient id="glow" cx=".35" cy=".3" r=".75"><stop offset="0" stop-color="#fff" stop-opacity=".18"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
 <filter id="sh" filterUnits="userSpaceOnUse" x="0" y="0" width="1024" height="1024"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000" flood-opacity=".35"/></filter></defs>
 <rect width="1024" height="1024" fill="url(#p)"/><rect width="1024" height="1024" fill="url(#glow)"/>
-<g filter="url(#sh)"><g transform="translate(135 123) scale(24.3)" fill="#fff" stroke="#fff" stroke-linejoin="round">
-<path d="M9 2 22 4l7 9-3 10-10 7L6 25 2 15Z" fill-opacity=".2" stroke-width="1.6"/>
-<path d="M9 2 13 11 2 15 6 25l5-2 5 7V9Z" fill-opacity=".42" stroke="none"/>
-<path d="M16 9 22 4l7 9-8 8-5 9Z" fill-opacity=".22" stroke="none"/>
-<path d="M13 11 16 9l5 4v8l-5 3-5-1Z" fill-opacity=".92" stroke-width="1.1"/>
-<path d="M2 15l11-4-2 12-5 2M22 4l-1 9h8M21 21l5 2M16 24v6" fill="none" stroke-width="1"/></g></g>
+<g filter="url(#sh)"><g transform="translate(135 123) scale(24.3)" fill="#fff" stroke="#fff" stroke-linejoin="round"><path d="M9 2 22 4l7 9-3 10-10 7L6 25 2 15Z" fill-opacity=".2" stroke-width="1.6"/><path d="M9 2 13 11 2 15 6 25l5-2 5 7V9Z" fill-opacity=".42" stroke="none"/><path d="M16 9 22 4l7 9-8 8-5 9Z" fill-opacity=".22" stroke="none"/><path d="M13 11 16 9l5 4v8l-5 3-5-1Z" fill-opacity=".92" stroke-width="1.1"/><path d="M2 15l11-4-2 12-5 2M22 4l-1 9h8M21 21l5 2M16 24v6" fill="none" stroke-width="1"/></g></g>
 <g transform="translate(528.66 521.52) scale(0.41015625 -0.41015625) translate(-256 -192)"><path d="M160 128c-17.6699 0 -32 14.3301 -32 32v224c0 17.6699 14.3301 32 32 32v16c0 8.83984 7.16016 16 16 16h64c8.83984 0 16 -7.16016 16 -16v-16c17.6699 0 32 -14.3301 32 -32v-224c0 -17.6699 -14.3301 -32 -32 -32h-12v-16c0 -8.83984 -7.16016 -16 -16 -16h-40
 c-8.83984 0 -16 7.16016 -16 16v16h-12zM464 0c26.5098 0 48 -21.4902 48 -48c0 -8.83984 -7.16016 -16 -16 -16h-480c-8.83984 0 -16 7.16016 -16 16c0 26.5098 21.4902 48 48 48h272c70.5801 0 128 57.4199 128 128s-57.4199 128 -128 128v64
 c105.88 0 192 -86.1201 192 -192c0 -49.2002 -18.7598 -93.9902 -49.29 -128h1.29004zM104 32c-4.41992 0 -8 3.58008 -8 8v16c0 4.41992 3.58008 8 8 8h208c4.41992 0 8 -3.58008 8 -8v-16c0 -4.41992 -3.58008 -8 -8 -8h-208z" fill="#186770"/></g></svg>
